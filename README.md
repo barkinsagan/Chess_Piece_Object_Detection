@@ -6,5 +6,5 @@ In this simple project I fine tuned a YOLOv12n model to detect chess pieces.
 
 The data was obtained from https://public.roboflow.com/object-detection/chess-full
 
-(train_batch3422.jpg)
+![Results](train_batch3422.jpg)
 
